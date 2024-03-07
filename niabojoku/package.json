@@ -1,7 +1,6 @@
 {
   "name": "niabojoku",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.1",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -23,5 +22,17 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.1.2"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bosval71/niabojoku"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bosval71/niabojoku/issues"
+  },
+  "homepage": "https://github.com/bosval71/niabojoku#readme"
 }
