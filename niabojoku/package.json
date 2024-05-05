@@ -1,32 +1,28 @@
+
 {
-  "name": "niabojoku1995",
-  "version": "1.1.4",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
   "dependencies": {
+    "alphonix": "^1.1.4",
+    "danial19": "^1.1.4",
+    "danial999": "^1.1.5",
+    "grimorum": "^1.1.4",
+    "inginjepe": "^1.1.7",
+    "jancok1995": "^1.2.4",
     "jancok19955": "^0.1.1",
-    "next": "14.1.2",
+    "jancok90": "^1.2.4",
+    "jancokjarantea": "^1.0.0",
+    "miracle199": "^1.1.4",
     "niabojoku": "^0.1.1",
-    "react": "^18",
-    "react-dom": "^18"
+    "niabojoku1995": "^1.1.4",
+    "tai-jepe": "^0.1.2",
+    "yangterdalam": "^1.1.4",
+    "yangterdalam2": "^1.1.3"
   },
-  "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.2",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "typescript": "^5"
+  "name": "niabojoku1995",
+  "version": "1.5.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
-  "main": "postcss.config.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/bosval71/niabojoku"
@@ -36,4 +32,7 @@
   "bugs": {
     "url": "https://github.com/bosval71/niabojoku/issues"
   },
-  "homepage": "https://github.com/bosval71/niabojoku#readme"
+  "homepage": "https://github.com/bosval71/niabojoku#readme",
+  "devDependencies": {},
+  "description": ""
+}
